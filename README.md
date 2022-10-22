@@ -9,18 +9,18 @@
 
 ## Featured Repositories ✨
 <a href="https://github.com/BemteviSeguros/antd-input-mask">
-  <img height="150" alt="Featured Repository Antd Input Mask" src="https://github-readme-stats.vercel.app/api/pin/?username=BemteviSeguros&repo=antd-input-mask&theme=gruvbox" />
+  <img  alt="Featured Repository Antd Input Mask" src="https://github-readme-stats.vercel.app/api/pin/?username=BemteviSeguros&repo=antd-input-mask&theme=gruvbox" />
 </a>
 <a href="https://github.com/Amorim33/data-science-introduction">
-  <img height="150" alt="Featured Repository Data Science Introduction" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=data-science-introduction&theme=gruvbox" />
+  <img  alt="Featured Repository Data Science Introduction" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=data-science-introduction&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/Amorim33/competitive-programming">
-  <img height="150" alt="Featured Repository Competitive Programming" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=competitive-programming&theme=gruvbox" />
+  <img  alt="Featured Repository Competitive Programming" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=competitive-programming&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/Amorim33/react-relay-typescript">
-  <img height="150" alt="Featured Repository React Relay Typescript Example" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=react-relay-typescript&theme=gruvbox" />
+  <img alt="Featured Repository React Relay Typescript Example" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=react-relay-typescript&theme=gruvbox" />
 </a>
 
 
