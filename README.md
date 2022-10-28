@@ -15,8 +15,8 @@
   <img  alt="Featured Repository Data Science Introduction" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=data-science-introduction&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/Amorim33/competitive-programming">
-  <img  alt="Featured Repository Competitive Programming" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=competitive-programming&theme=gruvbox" />
+<a href="https://github.com/Amorim33/computational-thinking">
+  <img  alt="Featured Repository Competitive Programming" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=computational-thinking&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/Amorim33/react-relay-typescript">
