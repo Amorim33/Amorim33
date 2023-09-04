@@ -11,18 +11,9 @@
 <a href="https://github.com/expressots/expressots">
   <img  alt="Featured Repository Antd Input Mask" src="https://github-readme-stats.vercel.app/api/pin/?username=expressots&repo=expressots&theme=gruvbox" />
 </a>
-<a href="https://github.com/Amorim33/data-science-introduction">
-  <img  alt="Featured Repository Data Science Introduction" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=data-science-introduction&theme=gruvbox" />
+<a href="https://github.com/Amorim33/mood-tracker-api">
+  <img  alt="Featured Repository Data Science Introduction" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=mood-tracker-api&theme=gruvbox" />
 </a>
-
-<a href="https://github.com/Amorim33/computational-thinking">
-  <img  alt="Featured Repository Competitive Programming" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=computational-thinking&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/Amorim33/react-relay-typescript">
-  <img alt="Featured Repository React Relay Typescript Example" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=react-relay-typescript&theme=gruvbox" />
-</a>
-
 
 <!--
 **Amorim33/Amorim33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
