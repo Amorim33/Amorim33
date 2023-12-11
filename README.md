@@ -2,8 +2,7 @@
 
 <div>
   <a href="https://github.com/Amorim33">
-    <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Amorim33&count_private=true&show_icons=true&theme=gruvbox" />
-    <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amorim33&layout=compact&theme=gruvbox&hide=starlark,html" />
+    <img  height="200px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amorim33&layout=compact&theme=gruvbox&hide=starlark,html" />
   </a>
 </div>
 
