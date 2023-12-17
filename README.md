@@ -1,10 +1,6 @@
 # Hi, I am Aluisio, a Full-Stack Dev! 🤝
 
-<div>
-  <a href="https://github.com/Amorim33">
-    <img  height="200px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amorim33&layout=compact&theme=gruvbox&hide=starlark,html" />
-  </a>
-</div>
+<a href="https://wakatime.com/@16899cd3-7e07-4bf0-a660-93d4889c773a"><img src="https://wakatime.com/badge/user/16899cd3-7e07-4bf0-a660-93d4889c773a.svg" alt="Total time coded since Jul 12 2022" /></a>
 
 ## Featured Repositories ✨
 <a href="https://github.com/expressots/expressots">
