@@ -5,8 +5,9 @@
 Trying to open-source my entire experience writing articles and coding cool stuff!
 
 Find me on:
-- [Twitter](https://twitter.com/AluisioDev)
-- [Linkedin](https://www.linkedin.com/in/aluisio-amorim-b19a701ba/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/AluisioDev/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aluisio-amorim-b19a701ba/)
 
 ## Open-source ✨
 <a href="https://github.com/expressots/expressots">
