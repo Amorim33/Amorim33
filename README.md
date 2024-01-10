@@ -16,6 +16,9 @@ Find me on:
 <a href="https://github.com/Amorim33/mood-tracker-api">
   <img  alt="Featured Repository Data Science Introduction" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=mood-tracker-api&theme=gruvbox" />
 </a>
+<a href="https://github.com/Amorim33/lstm-book">
+  <img  alt="Featured Repository LSTM Book" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=lstm-book&theme=gruvbox" />
+</a>
 
 ## Articles 📖
 - [How to Successfully Integrate with Legacy APIs Using NodeJS](https://dev.to/aluisiodev/how-to-successfully-integrate-with-legacy-apis-using-nodejs-3kbf)
