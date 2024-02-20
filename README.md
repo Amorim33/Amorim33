@@ -4,8 +4,6 @@
 
 [![Aluisio's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Amorim33&theme=dark)](https://leetcode.com/Amorim33/)
 
-Trying to open-source my entire experience writing articles and coding cool stuff!
-
 Find me on:
 
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/AluisioDev/)
