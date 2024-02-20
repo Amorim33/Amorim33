@@ -11,13 +11,13 @@ Find me on:
 
 ## Open-source ✨
 <a href="https://github.com/expressots/expressots">
-  <img  alt="Featured Repository Antd Input Mask" src="https://github-readme-stats.vercel.app/api/pin/?username=expressots&repo=expressots&theme=gruvbox" />
+  <img  alt="Featured Repository Antd Input Mask" src="https://github-readme-stats.vercel.app/api/pin/?username=expressots&repo=expressots&theme=dark" />
 </a>
 <a href="https://github.com/Amorim33/mood-tracker-api">
-  <img  alt="Featured Repository Data Science Introduction" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=mood-tracker-api&theme=gruvbox" />
+  <img  alt="Featured Repository Data Science Introduction" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=mood-tracker-api&theme=dark" />
 </a>
 <a href="https://github.com/Amorim33/lstm-book">
-  <img  alt="Featured Repository LSTM Book" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=lstm-book&theme=gruvbox" />
+  <img  alt="Featured Repository LSTM Book" src="https://github-readme-stats.vercel.app/api/pin/?username=Amorim33&repo=lstm-book&theme=dark" />
 </a>
 
 ## Articles 📖
