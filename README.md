@@ -2,8 +2,6 @@
 
 <a href="https://wakatime.com/@16899cd3-7e07-4bf0-a660-93d4889c773a"><img src="https://wakatime.com/badge/user/16899cd3-7e07-4bf0-a660-93d4889c773a.svg" alt="Total time coded since Jul 12 2022" /></a>
 
-[![Aluisio's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Amorim33&theme=dark)](https://leetcode.com/Amorim33/)
-
 Find me on:
 
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/AluisioDev/)
