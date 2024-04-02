@@ -8,6 +8,7 @@ Find me on:
 [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aluisio-amorim-b19a701ba/)
 
 ## Featured Articles
+- [Implementing end-to-end encryption (E2EE) to a Planning Poker game](https://dev.to/qwikens/implementing-end-to-end-encryption-e2ee-to-a-planning-poker-game-1hoi)
 - [How to Successfully Integrate with Legacy APIs Using NodeJS](https://dev.to/aluisiodev/how-to-successfully-integrate-with-legacy-apis-using-nodejs-3kbf)
 
 ## Featured Talks
