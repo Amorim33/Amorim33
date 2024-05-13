@@ -2,6 +2,12 @@
 
 <a href="https://wakatime.com/@16899cd3-7e07-4bf0-a660-93d4889c773a"><img src="https://wakatime.com/badge/user/16899cd3-7e07-4bf0-a660-93d4889c773a.svg" alt="Total time coded since Jul 12 2022" /></a>
 
+Really interested into Machine Learning and Real-time applications, take a look at these open source projects:
+- [Resume Generator](https://github.com/Amorim33/resume-generator) - Full-stack GPT powered resume generator
+- [Mood Tracker API](https://github.com/Amorim33/mood-tracker-api) - Python back-end for speech sentiment analysis
+- [LSTM Book](https://github.com/Amorim33/lstm-book) - Research on LSTM neural networks applied to heavy-tail timeseries analysis
+- [Free Planning Poker Game](https://github.com/qwikens/planning-poker/) - Real-time with CRDTs application
+
 Find me on:
 
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/AluisioDev/)
