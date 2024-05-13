@@ -1,4 +1,4 @@
-# Hi, I am Aluisio, a Full-Stack Dev! 🤝
+# Hi, I am Aluisio, a generalist developer! 🤝
 
 <a href="https://wakatime.com/@16899cd3-7e07-4bf0-a660-93d4889c773a"><img src="https://wakatime.com/badge/user/16899cd3-7e07-4bf0-a660-93d4889c773a.svg" alt="Total time coded since Jul 12 2022" /></a>
 
