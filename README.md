@@ -5,7 +5,7 @@
 Really interested into Machine Learning and Real-time applications, take a look at these open source projects:
 - [Resume Generator](https://github.com/Amorim33/resume-generator) - Full-stack GPT powered resume generator
 - [Mood Tracker API](https://github.com/Amorim33/mood-tracker-api) - Python back-end for speech sentiment analysis
-- [LSTM Book](https://github.com/Amorim33/lstm-book) - Research on LSTM neural networks applied to heavy-tailed timeseries analysis
+- [LSTM IC](https://github.com/Amorim33/lstm-book) - Research on LSTM neural networks applied to heavy-tailed timeseries analysis
 - [Free Planning Poker Game](https://github.com/qwikens/planning-poker/) - Real-time collaboration with CRDTs application
 
 Find me on:
